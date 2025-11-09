@@ -57,7 +57,7 @@
 - Drill-through capabilities for detailed patient journey analysis
 - Real-time data refresh from Synapse SQL Pool
 
-<img width="1282" height="724" alt="Healthcare Patient Flow Dashboard" src="https://github.com/user-attachments/assets/cf1f84dc-c1a5-4f07-84aa-1658abb4db16" />
+<img width="1695" height="918" alt="Screenshot 2025-11-09 130816" src="https://github.com/user-attachments/assets/b6610ab2-3461-4db2-975e-03e1fd8ecd30" />
 
 ## ✅ Key Achievements
 
@@ -92,3 +92,4 @@ git add .
 git commit -m "feat: implement real-time patient flow analytics pipeline"
 git branch -M main
 git push -u origin main
+
